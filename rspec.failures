@@ -1,0 +1,3 @@
+-e "The basic layout has 3 elements"
+-e "The broswer dectector should not have the warning"
+-e "web socket push should add a new link when the mocked ajax request send to json server"
